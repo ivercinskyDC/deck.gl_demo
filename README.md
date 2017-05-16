@@ -1,6 +1,10 @@
 This is a minimal standalone version of the 3DHeatmap example
 on [deck.gl](http://deck.gl) website.
 
+### Grafico
+
+El grafico muestra la distribucion geografica de los supermercados registrados en la pagina de precios claros
+
 ### Usage
 - Copy the content of this folder to your project. 
 
